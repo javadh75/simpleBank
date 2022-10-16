@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "DBTX",
+        "sqlc"
+    ],
+    "gopls": {
+        "ui.semanticTokens": true
+    }
+}
